@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🎓 I’m trained in analysis and systems development.
 - 🌱 Eternal apprentice.
-- 🚀 Developing skills to be fullstack using Javascript
-- 🇧🇷 🇵🇹 Brazilian currently in Portugal
+- 🚀 Developing skills to have a complete stack using Javascript and learning English.
+- 🇧🇷 🇵🇹 Brazilian currently in Portugal.
 
 <!--
 **cristianoasg/cristianoasg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
