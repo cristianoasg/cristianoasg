@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🎓 I’m trained in analysis and systems development.
 - 🌱 Eternal apprentice.
-- 🚀 Developing skills to have a complete stack using Javascript and learning English.
+- 🚀 Developing skills to be fullstack using Javascript and learning English.
 - 🇧🇷 🇵🇹 Brazilian currently in Portugal.
 
 <!--
